@@ -1,0 +1,56 @@
+[
+  {
+    "id" :1,
+    "name": "Jeans",
+    "brand": "Bewakoof",
+    "price": 200,
+    "size": ["S", "M"],
+    "ideal": "Men",
+    "image": "https://rukminim1.flixcart.com/image/800/960/k70spzk0/jean/z/b/g/30-hljn000691-highlander-original-imafpchxef24gfpf.jpeg?q=50"
+  },
+  {
+    "id" :2,
+    "name": "Top",
+    "brand": "Libas",
+    "price": 700,
+    "size": ["S", "L"],
+    "ideal": "Women",
+    "image": "https://rukminim1.flixcart.com/image/800/960/kkwwu4w0/top/5/p/x/l-tttp004130-tokyo-talkies-original-imagy5h5tuaxpj4e.jpeg?q=50"
+  },
+  {
+    "id" :3,
+    "name": "Dress",
+    "brand": "Dressberry",
+    "price": 1200,
+    "size": ["M", "XL"],
+    "ideal": "Women",
+    "image": "https://rukminim1.flixcart.com/image/800/960/kovsvbk0/dress/h/i/a/xl-ss21an097drkt-and-original-imag38zphqpyufrf.jpeg?q=50"
+  },
+  {
+    "id" :4,
+    "name": "Kurta Set",
+    "brand": "Libas",
+    "price":2500,
+    "size": ["M", "S"],
+    "ideal": "Women",
+    "image": "https://rukminim1.flixcart.com/image/800/960/kxz0pe80/ethnic-set/i/s/n/xxl-20425-libas-original-imagabyjygxwt99g.jpeg?q=50"
+  },
+  {
+    "id" :5,
+    "name": "Heels",
+    "brand": "Dressberry",
+    "price": 1800,
+    "size": ["M", "S"],
+    "ideal": "Women",
+    "image": "https://rukminim1.flixcart.com/image/800/960/kox8b680/sandal/b/h/h/6-13598728-dressberry-white-original-imag39jpf33h6uq5.jpeg?q=50"
+  },
+  {
+    "id" :6,
+    "name": "Shirt",
+    "brand": "Bewakoof",
+    "price": 200,
+    "size": ["M", "S"],
+    "ideal": "Men",
+    "image": "https://rukminim1.flixcart.com/image/800/960/k30h8y80/kurta/3/h/z/xl-kurta-white-elepants-original-imafm8btnga82gmg.jpeg?q=50"
+  }
+]
